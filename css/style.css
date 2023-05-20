@@ -1,0 +1,28 @@
+main {
+  width: 350px;
+  margin: auto;
+  border-radius: 10px;
+  border: 1px solid;
+  padding: 10px 20px;
+}
+main h2 {
+  text-align: center;
+  border-bottom: 1px solid rgb(56, 56, 56);
+}
+
+button {
+  display: block;
+  margin: auto;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid;
+  cursor: pointer;
+}
+button:active {
+  scale: 0.9;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(125, 152, 240);
+}
